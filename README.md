@@ -1,13 +1,22 @@
 # hello-world
 My first repository
 
- <!DOCTYPE html>
+<!DOCTYPE html>
+
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>basic html boilerplate code</title>
-  </head>
-  <body>
-  Just learning html.
-  </body>
+
+<title>My first website</title>
+
+<body>
+
+<h1>My <strong>first</strong> header</h1>
+
+<p> <em>My first paragraph.</em> </p>
+
+<h2>My <strong>second</strong> header</h2>
+
+<p> <em>My second paragraph</em> </p>
+
+
+</body>
 </html>
