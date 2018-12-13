@@ -5,7 +5,6 @@ My first repository
 
 <html>
 
-<title>My first website</title>
 
 <body>
 
